@@ -19,3 +19,4 @@ Once the dependencies are installed and the model is trained save the model in .
 >python widget_for_cifar10.py
 
 It's serving a saved keras model via GUI interface.
+![image](/output.gif)
